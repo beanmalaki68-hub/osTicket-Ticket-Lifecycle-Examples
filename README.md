@@ -36,17 +36,19 @@ First an end user would create a ticket using the ticket support system. It is a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1203" height="1027" alt="image" src="https://github.com/user-attachments/assets/28dd8bf9-efe4-4aba-bcbb-659fd7e5d90b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I logged in as a user to see if the ticket was submitted. I also wanted to highlight that John in this case has "Read Only" access which limited what he can do to tickets that are submitted. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1221" height="921" alt="image" src="https://github.com/user-attachments/assets/0aaa5050-fb2b-43b0-81ef-66badf18088a" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then gave John higher privileges allowing him to change things Priority Level, SLA Plan, & and Help Topic. In this case after triaging the ticket John realized he need to escalate this ticket to the SysAdmins department. 
 </p>
 <br />
