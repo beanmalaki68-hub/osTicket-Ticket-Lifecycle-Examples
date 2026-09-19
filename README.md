@@ -26,10 +26,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1023" height="886" alt="image" src="https://github.com/user-attachments/assets/97dae5be-c8d5-4a8c-9d0f-f6934ac28afa" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First an end user would create a ticket using the ticket support system. It is always important to keep in mind that end users may not fill out the ticket %100 correctly and it is always important to gather as much information from the user as you can. 
 </p>
 <br />
 
