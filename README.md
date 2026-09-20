@@ -58,3 +58,7 @@ I then gave John higher privileges allowing him to change things Priority Level,
 
 </p>
 <p>After John assigned the ticket to the SysAdmins, he was no longer able to access it due to the way the permissions were configured. Jane, who is part of the SysAdmins department, then took ownership of the ticket and worked it through to completion. Before resolving the ticket, Jane confirmed with the end user that everything was operating normally. Once the issue was verified as resolved, she marked the ticket as resolved.</p>
+
+# Summary
+
+This lab focused on the **ticket lifecycle in osTicket**, from creating a ticket as an end user to assigning, managing, escalating, and resolving tickets as a help desk professional. The lab included creating multiple support tickets, reviewing ticket properties such as priority, department, Service Level Agreement (SLA), and assignment, and working tickets through completion. It also demonstrated how department permissions affect ticket access and how an administrator can provide an agent with access to escalated tickets. Finally, the lab covered real-world ticket intake methods, the importance of documenting all support work, and how email communication can be used to keep users updated throughout the ticket lifecycle.
