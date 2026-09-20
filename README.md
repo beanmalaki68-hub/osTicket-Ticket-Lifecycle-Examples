@@ -49,6 +49,6 @@ I logged in as a user to see if the ticket was submitted. I also wanted to highl
 
 </p>
 <p>
-I then gave John higher privileges allowing him to change things Priority Level, SLA Plan, & and Help Topic. In this case after triaging the ticket John realized he need to escalate this ticket to the SysAdmins department. 
+I then gave John higher privileges allowing him to change things Priority Level, SLA Plan, & and Help Topic. After the ticket is triaged either that IT professional will work the ticket to completion or escalate it to an IT professional who is higher up.
 </p>
 <br />
