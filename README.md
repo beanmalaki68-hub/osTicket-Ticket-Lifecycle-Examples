@@ -27,7 +27,18 @@ https://github.com/user-attachments/assets/5617d74b-dbe1-4190-930c-cbceb0d31156
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+# Step 1 - Remoting into the Virtual Machine and creating a ticket as Karen
+
+First, I used remote desktop to log into my virtual machine. Then I create a ticket as Karen for us to work.
+
+<h2>Video Walkthrough</h2>
+
+
+https://www.youtube.com/watch?v=_rqSR4kBVyY&list=PLZr1iJyCzL_0&index=1
+
+
+
+
 
 <p>
 <img width="1023" height="886" alt="image" src="https://github.com/user-attachments/assets/97dae5be-c8d5-4a8c-9d0f-f6934ac28afa" />
