@@ -37,8 +37,16 @@ First, I used remote desktop to log into my virtual machine. Then I create a tic
 https://www.youtube.com/watch?v=_rqSR4kBVyY&list=PLZr1iJyCzL_0&index=1
 
 
+# Step 2 - Login as John to view the Ticket, and then editing Johns permissions
+
+I then logged in as John and viewed the ticket. Since John only had view access I logged onto the admin account and gave him more access.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/I3lB3knZY9w
 
 
+# Step 3 - 
 
 <p>
 <img width="1023" height="886" alt="image" src="https://github.com/user-attachments/assets/97dae5be-c8d5-4a8c-9d0f-f6934ac28afa" />
