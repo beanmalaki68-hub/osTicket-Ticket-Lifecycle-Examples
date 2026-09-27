@@ -46,39 +46,14 @@ I then logged in as John and viewed the ticket. Since John only had view access 
 https://youtu.be/I3lB3knZY9w
 
 
-# Step 3 - 
+# Step 3 - Working the Ticket as John
 
-<p>
-<img width="1023" height="886" alt="image" src="https://github.com/user-attachments/assets/97dae5be-c8d5-4a8c-9d0f-f6934ac28afa" />
+Next, I logged back in as John in order to properly work the Ticket. In this example I acted like I spoke with the end-user and edited the ticket based on what I learned from the investigation. This requires me to change things like the SLA level, Help Topic, and Priority ending with me escalating the ticket. 
 
 
-</p>
-<p>
-First an end user would create a ticket using the ticket support system. It is always important to keep in mind that end users may not fill out the ticket %100 correctly and it is always important to gather as much information from the user as you can. 
-</p>
-<br />
+<h2>Video Walkthrough</h2>
 
-<p>
-<img width="1203" height="1027" alt="image" src="https://github.com/user-attachments/assets/28dd8bf9-efe4-4aba-bcbb-659fd7e5d90b" />
+https://youtu.be/-1nVNQHP8jI
 
-</p>
-<p>
-I logged in as a user to see if the ticket was submitted. I also wanted to highlight that John in this case has "Read Only" access which limited what he can do to tickets that are submitted. 
-</p>
-<br />
 
-<p>
-<img width="1221" height="921" alt="image" src="https://github.com/user-attachments/assets/0aaa5050-fb2b-43b0-81ef-66badf18088a" />
-
-</p>
-<p>
-I then gave John higher privileges allowing him to change things Priority Level, SLA Plan, & and Help Topic. After the ticket is triaged either that IT professional will work the ticket to completion or escalate it to an IT professional who is higher up.
-</p>
-<br />
-
-</p>
-<img width="1209" height="728" alt="image" src="https://github.com/user-attachments/assets/2ef7e4f9-d32d-49ab-8528-446314f44de2" />
-
-</p>
-<p>After John assigned the ticket to the SysAdmins, he was no longer able to access it due to the way the permissions were configured. Jane, who is part of the SysAdmins department, then took ownership of the ticket and worked it through to completion. Before resolving the ticket, Jane confirmed with the end user that everything was operating normally. Once the issue was verified as resolved, she marked the ticket as resolved.</p>
-
+# Step 4 - 
