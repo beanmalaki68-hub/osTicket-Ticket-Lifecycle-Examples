@@ -56,4 +56,11 @@ Next, I logged back in as John in order to properly work the Ticket. In this exa
 https://youtu.be/-1nVNQHP8jI
 
 
-# Step 4 - 
+# Step 4 - Working the Ticket as SysAdmin Jane
+
+Lastly, I logged in as Jane who has SysAdmin permissions and access. I was able to "locate" the issue with Karen's money transfer and find a resolution. I then implemented that fix and confirmed with Karen that the issue was in fact resolved.
+
+<h2>Video Walkthrough</h2>
+
+
+https://youtu.be/5onB1YUtnBU
