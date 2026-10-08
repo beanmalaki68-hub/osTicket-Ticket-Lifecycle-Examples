@@ -7,10 +7,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-https://github.com/user-attachments/assets/5617d74b-dbe1-4190-930c-cbceb0d31156
-
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
